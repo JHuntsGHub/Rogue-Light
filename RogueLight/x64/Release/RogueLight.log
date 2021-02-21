@@ -1,0 +1,54 @@
+﻿  pch.cpp
+  Bullet.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\bullet.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Enemy.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\enemy.cpp(46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Entity.cpp
+  GameObject.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\gameobject.cpp(42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\gameobject.cpp(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Map.cpp
+  MapElement.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\mapelement.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(64): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(66): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(68): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(70): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\player.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RogueLight.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(259): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(378): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(381): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(384): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(387): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\roguelight.cpp(395): warning C4305: '-=': truncation from 'double' to 'float'
+  Settings.cpp
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\settings.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Time.cpp
+  Window.cpp
+  Generating code
+c:\users\jess\desktop\tempc++\cmp5327-c-programming-for-games-assessment-jhuntsghub\roguelight\window.cpp(50): warning C4715: 'Window::InitialiseWindow': not all control paths return a value
+  All 339 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RogueLight.vcxproj -> C:\Users\Jess\Desktop\TempC++\cmp5327-c-programming-for-games-assessment-JHuntsGHub\x64\Release\RogueLight.exe
